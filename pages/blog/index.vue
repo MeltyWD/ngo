@@ -1,6 +1,7 @@
 <template>
   <div class="container">
     <Navigation />
+    <Blog />
   </div>
 </template>
 
